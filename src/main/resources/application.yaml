@@ -1,0 +1,7 @@
+bot:
+  token:
+cbr:
+  currency:
+    rates:
+      xml:
+        url: http://www.cbr.ru/scripts/XML_daily.asp
